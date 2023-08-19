@@ -49,6 +49,7 @@ export {
   AccordionPanel,
   AlertDialog,
   AlertDialogBody,
+  AlertDialogCloseButton,
   AlertDialogContent,
   AlertDialogFooter,
   AlertDialogHeader,
